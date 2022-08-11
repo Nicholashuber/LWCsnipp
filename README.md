@@ -5,7 +5,7 @@
 ---
 
 I just made this to a LWC OSS site [here](https://www.awesomelwc.com/)!
-test
+testing auto build
 I plan on making a style/contribution guide to the site ASAP. Site is fairly basic right now, some elbow grease and SLDS based on the OSS Trailhead.
 
 All this is community driven and isn't directly associated to Salesforce or related organizations.
