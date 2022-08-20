@@ -4,7 +4,7 @@ const tabItems = {
         value: 'components',
         visible: false
     },
-    lockersafejs: {
+    /*lockersafejs: {
         title: 'Locker Safe JS Resources',
         value: 'lockersafejs',
         visible: false
@@ -13,7 +13,7 @@ const tabItems = {
         title: 'Learning LWC + JS',
         value: 'learning',
         visible: false
-    }
+    }*/
 };
 
 const tabElements = ['components', 'lockersafejs', 'learning'];
